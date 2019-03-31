@@ -1,0 +1,7 @@
+TypeMatrice=double
+NBLignes=2
+NBColonnes=3
+Matrice=[
+1 4 1
+1 7 0
+]
